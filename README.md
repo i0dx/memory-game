@@ -1,2 +1,2 @@
-# portfolio
-Here is a compilation of all of my coding endeavours!
+# Memory Game
+This is the first rendition of my memory game project for Springboard
